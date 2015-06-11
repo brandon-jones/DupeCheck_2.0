@@ -1,0 +1,1 @@
+c:\users\brandon jones\documents\visual studio 2013\Projects\DupeCheck_2.0\DupeCheck_2.0\bin\Debug\DupeCheck_2.0.exe.config
